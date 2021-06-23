@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Charles Poon @CharlesPKC
+- 👋 Hi, I’m Charles @CharlesPKC
 - 👀 I’m interested in Data Science and Game Development
 - 🌱 I’m currently learning Python full stack, MERN stack, and Unity C#.
 - 💞️ I’m looking to collaborate on ...
